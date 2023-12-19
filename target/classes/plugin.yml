@@ -1,0 +1,4 @@
+name: TestListeningPlugin
+version: '1.0-SNAPSHOT'
+main: me.xxgradzix.testlisteningplugin.TestListeningPlugin
+api-version: '1.17'

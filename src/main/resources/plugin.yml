@@ -1,0 +1,4 @@
+name: TestListeningPlugin
+version: '${project.version}'
+main: me.xxgradzix.testlisteningplugin.TestListeningPlugin
+api-version: '1.17'
